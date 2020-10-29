@@ -4,4 +4,4 @@ Este archivo contiene un editor de señalnes BÁSICO, con las propiedades, de ex
 
 Así se ve el editor
 
-<p align="center"> <img src=./imagenes/Interface.png> </p>
+<p align="center"> <img src=./Imagenes/Interface.png> </p>
