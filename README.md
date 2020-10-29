@@ -1,1 +1,1 @@
-# DSP-Procesamiento-digital-de-se-ales-
+# Procesamiento digital de señales
